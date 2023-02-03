@@ -1,0 +1,25 @@
+from bs4 import BeautifulSoup
+from geopy.geocoders import Nominatim
+from urllib import urljoin, urlparse, urlencode
+import csv
+import Tabula-py
+import nominatim
+import wikipedia as wk
+import PyCaret
+import requests
+import JSON
+import Numpy
+import Pandas
+Browser DevTools
+Apache Airflow
+Hadoop
+TextBlob
+Kumu
+Flourish
+import seaborn
+import sklearn.clusters
+import sklearn.preprocessing
+Quill - Tableau
+PowerBI
+ComicGen
+Google Data Studio
