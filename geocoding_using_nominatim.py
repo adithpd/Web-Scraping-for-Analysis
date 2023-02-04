@@ -1,13 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Scraping using Geocoding API of Open Street Maps (OSM)
-We would be using the Nominatim API to scrape geocoding information of any open ended address text using Python.
-"""
-
-# no need to install these if using Google Colab
-# !pip install geopandas
-# !pip install geopy
-
 #import nominatim api
 from geopy.geocoders import Nominatim
 
