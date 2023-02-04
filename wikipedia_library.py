@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-This is a self-explanaory short tutorial on using the wikipedia library to extract information from Wikipedia.
-"""
-
 import wikipedia as wk
 
 print(wk.search("Washington"))
